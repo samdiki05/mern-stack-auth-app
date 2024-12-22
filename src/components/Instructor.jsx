@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Instructor.css";
-import instructorImage from "../assets/profile.png"; // Replace this with the path to your image
+import instructorImage from "../assets/profile.png";
 
 const Instructor = () => {
   return (
