@@ -1,0 +1,86 @@
+PROJECT: Complete MERN Authentication: JWT, OTP Verification (Email & Phone), Password Reset, Automation
+server side
+npm init 
+npm install
+npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+
+**Display output:
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated npmlog@5.0.1: This package is no longer supported.
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated are-we-there-yet@2.0.0: This package is no longer supported.
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm install
+
+up to date, audited 1 package in 767ms
+
+found 0 vulnerabilities
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated npmlog@5.0.1: This package is no longer supported.
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm install
+
+up to date, audited 1 package in 767ms
+
+found 0 vulnerabilities
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated npmlog@5.0.1: This package is no longer supported.
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm install
+
+up to date, audited 1 package in 767ms
+
+found 0 vulnerabilities
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm install
+
+up to date, audited 1 package in 767ms
+
+found 0 vulnerabilities
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm install
+
+up to date, audited 1 package in 767ms
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm install
+
+up to date, audited 1 package in 767ms
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm install
+
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm install
+
+
+up to date, audited 1 package in 767ms
+
+found 0 vulnerabilities
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+
+found 0 vulnerabilities
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+found 0 vulnerabilities
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+PS E:\Mes_Projectweb\mern_oauth\mern_auth_app\server> npm i cors express mongoose bcrypt dotenv cookie-parser twilio nodemailer
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache 
+if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated npmlog@5.0.1: This package is no longer supported.
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated are-we-there-yet@2.0.0: This package is no longer supported.
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated gauge@3.0.2: This package is no longer supported.
+
+added 177 packages, and audited 178 packages in 26s
+
+20 packages are looking for funding
+  run `npm fund` for details
+**solved the issue with "npm update"
+If specific packages need manual updates due to breaking changes, you might need to do:
+npm install --save rimraf@latest
+npm install --save glob@latest
+npm install --save npmlog@latest
+# And so on for other packages
+
+**Note: to discover the url local of server Mongodb
+cmd
+mongosh
+Mongodb server
+user:testuser
+pwd: Password123
